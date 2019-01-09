@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "Variable:0"
+  metadata_path: "./tmp/ch3/train/metadata.tsv"
+  sprite {
+    image_path: "./data/ch3/mnist_10k_sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
